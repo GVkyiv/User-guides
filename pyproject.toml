@@ -1,0 +1,9 @@
+[project]
+name = "user-guides"
+version = "0.1.0"
+description = "Генератор корпоративных инструкций DOCX"
+readme = "README.md"
+requires-python = ">=3.14"
+dependencies = [
+    "python-docx>=1.2.0",
+]
