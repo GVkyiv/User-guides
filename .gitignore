@@ -1,0 +1,13 @@
+# Python / uv
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+
+# Temporary Office / OS files
+~$*.docx
+~$*.pptx
+*.tmp
+Thumbs.db
+Desktop.ini
+.DS_Store
